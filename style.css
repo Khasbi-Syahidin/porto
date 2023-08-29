@@ -1,12 +1,14 @@
 body{
+    width: 175vh;
     min-height: 2500px;
+    
     font-family: Poppins;
 }
 
 
 
 .backround-web img{
-    width: 175vh;
+    width: 100%;
     z-index: 1;
     
 }
