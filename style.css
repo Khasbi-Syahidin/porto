@@ -1,7 +1,7 @@
 body{
     width: 175vh;
     min-height: 2500px;
-    
+    flex: content;
     font-family: Poppins;
 }
 
